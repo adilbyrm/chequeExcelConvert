@@ -1,3 +1,4 @@
-/export
+/cheque_export
+/stock_receipt_export
 *.xlsx
 *.xls
